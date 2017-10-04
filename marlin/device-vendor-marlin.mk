@@ -72,7 +72,6 @@ PRODUCT_PACKAGES += \
     AppDirectedSMSService \
     CNEService \
     CarrierServices \
-    CarrierSetup \
     ConnMO \
     DCMO \
     DMService \
